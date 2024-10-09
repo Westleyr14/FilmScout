@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">FilmScout</string>
+
+    <string name="heroes_name">Nama Film</string>
+
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="films_name">Nama Film</string>
+    <string name="share">SHARE</string>
+    <string name="about">About</string>
+    <string name="my_name">Westley Randanan Situmorang\n</string>
+    <string name="my_email">westleyr14@gmail.com</string>
+    <string name="app_about">Welcome to FilmScout, your new favorite app for discovering and sharing the magic of cinema!\n\nAt FilmScout, we believe that movies bring people together, spark conversations, and create lasting memories. So, grab your popcorn, invite your friends, and embark on an adventure through the world of film. Whether it’s a heartwarming romance or a nail-biting thriller, there\'s something for everyone.\n\nThank you for joining us on this cinematic journey! We can’t wait to see what films you discover and share with the world. Remember, the next great movie night is just a few taps away. Happy scouting!</string>
+
+    <string-array name="data_name">
+        <item>The Dark Knight (2008)</item>
+        <item>Inception (2010)</item>
+        <item>The Matrix (1999)</item>
+        <item>Parasite (2019)</item>
+        <item>Avengers: Endgame (2019)</item>
+        <item>Mad Max: Fury Road (2015)</item>
+        <item>Toy Story (1995)</item>
+        <item>Blade Runner 2049 (2017)</item>
+        <item>Joker (2019)</item>
+        <item>Arrival (2016)</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Batman, with the help of Lieutenant Jim Gordon and District Attorney Harvey Dent, battles Gotham’s rising crime. They face the Joker, a chaotic villain who tests their moral limits and forces them to confront their darkest choices.</item>
+        <item>Dom Cobb, a master thief who enters people\'s dreams to steal secrets, is offered a chance to erase his criminal record by performing \"inception\"—implanting an idea in someone\'s mind. Cobb assembles a team to navigate layered dream worlds and confront hidden dangers.</item>
+        <item>In a dystopian future, a computer hacker named Neo discovers that humanity is unknowingly trapped inside a simulated reality called the Matrix, created by sentient machines to subjugate and control human beings. With the help of a group of rebels led by Morpheus and Trinity, Neo learns about the truth of the Matrix and his potential as "The One" who can end the war between humans and machines.</item>
+        <item>A struggling family, the Kims, connive their way into working for the wealthy Park family by posing as unrelated professionals. As the Kims infiltrate the Parks\' luxurious life, their deception leads to unforeseen consequences, exposing the vast divide between the rich and the poor.</item>
+        <item>After Thanos wipes out half of all life, the remaining Avengers come together to reverse the damage. Through a risky time-travel mission, they attempt to retrieve the Infinity Stones from the past. Their final battle against Thanos challenges their strength, resolve, and the meaning of sacrifice.</item>
+        <item>In a post-apocalyptic wasteland, Max Rockatansky is captured by a tyrannical warlord, Immortan Joe. He teams up with Imperator Furiosa, who rebels against Joe and seeks to rescue a group of women enslaved in his citadel. As they flee across the desert in a high-octane chase, they face relentless pursuers and confront their own pasts in a quest for redemption and freedom.</item>
+        <item>In a world where toys come to life when humans aren\'t around, Woody, a pull-string cowboy doll, is the favorite toy of a boy named Andy. However, Woody\'s position is threatened when a new action figure, Buzz Lightyear, arrives. The rivalry between Woody and Buzz leads to an unexpected adventure as they navigate the challenges of friendship, loyalty, and what it means to be a toy.</item>
+        <item>Set 30 years after the original film, Blade Runner K, a replicant working for the LAPD, uncovers a long-buried secret that could disrupt society. His investigation leads him to find Rick Deckard, a former blade runner who has been missing for decades. As K delves deeper, he confronts issues of identity, humanity, and the consequences of creation in a world that blurs the lines between man and machine.</item>
+        <item>In 1981, Arthur Fleck, a failed comedian with a troubled past, struggles to find his place in society as he battles mental illness and societal neglect. As he transforms into the iconic Joker, he becomes a symbol of rebellion against the oppressive systems that have marginalized him. The film explores themes of isolation, madness, and the impact of societal apathy on individuals.</item>
+        <item>When mysterious extraterrestrial spacecraft land around the world, linguist Louise Banks is recruited by the military to communicate with the alien visitors. As she learns their complex language, she begins to perceive time in a nonlinear way, leading her to confront personal loss and the nature of communication itself. The film delves into themes of language, perception, and the human experience.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/d/df/Arrival%2C_Movie_Poster.jpg</item>
+    </string-array>
+</resources>
